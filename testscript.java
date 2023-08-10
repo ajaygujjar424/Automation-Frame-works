@@ -15,7 +15,7 @@ public class testscript extends Generic1 {
 		 driver.get("https://www.facebook.com/");*/
 		 pom p =new pom(driver);
 		 p.sendun("ajaygujjar424@gmail.com");
-		 p.sendpwd("ajay1999");
+		 p.sendpwd("ajay122222");
 		 p.click();
 	  
   }
