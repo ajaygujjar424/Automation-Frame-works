@@ -9,7 +9,7 @@ public class Testscript1 extends Generic
   public void login()
   {
 	  driver.findElement(By.id("email")).sendKeys("ajaygujjar424@gmail.com");
-	  driver.findElement(By.name("pass")).sendKeys("ajay1999");
+	  driver.findElement(By.name("pass")).sendKeys("ajay5555555");
 	  driver.findElement(By.xpath("//button[@type='submit']")).click();
 	  
   }
