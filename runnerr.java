@@ -12,7 +12,7 @@ public class runnerr extends Generic1 {
   {
 	 pom p=new pom(driver);
 	 p.sendun("ajaygujjar424@gmail.com");
-	 p.sendpwd("ajay1999");
+	 p.sendpwd("ajay655555");
 	 p.click();
 	  
   }
