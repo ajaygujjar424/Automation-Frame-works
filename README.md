@@ -2,7 +2,7 @@
 
 1. **Introduction to Selenium**:
    - What is Selenium?
-   - Seleium is the Web based automation tool. It is free and open source, it's support foe multipal languages like Java, Python Ruby, C# etc.
+   - Seleium is the Web based automation tool. It is free and open source, it's support for multipal languages like Java, Python Ruby, C# etc.
    - Selenium components: Selenium WebDriver, Selenium IDE, Selenium Grid.
 
 2. **Setting Up Environment**:
