@@ -3,14 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="orangeHRM.OrangeHRM">
+      <class name="nopcom.Nopcommerce">
         <methods>
-          <include name="Login"/>
-          <include name="Terminate"/>
-          <include name="Job"/>
-          <include name="Qualification"/>
+          <include name="addToCart"/>
+          <include name="launchBrowser"/>
+          <include name="closeBrowser"/>
         </methods>
-      </class> <!-- orangeHRM.OrangeHRM -->
+      </class> <!-- nopcom.Nopcommerce -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="8" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54191" started-at="2023-08-17T17:13:19 IST" finished-at="2023-08-17T17:14:13 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54191" started-at="2023-08-17T17:13:19 IST" finished-at="2023-08-17T17:14:13 IST">
+      <class name="generic.Generic">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:generic.Generic@6f195bc3]" name="openapp" is-config="true" duration-ms="12019" started-at="2023-08-17T17:13:19 IST" finished-at="2023-08-17T17:13:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+      </class> <!-- generic.Generic -->
+      <class name="sdet.Login1">
+        <test-method status="PASS" signature="Login11()[pri:0, instance:sdet.Login1@3712b94]" name="Login11" duration-ms="23326" started-at="2023-08-17T17:13:31 IST" finished-at="2023-08-17T17:13:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login11 -->
+        <test-method status="PASS" signature="Login22()[pri:0, instance:sdet.Login1@3712b94]" name="Login22" duration-ms="23169" started-at="2023-08-17T17:13:31 IST" finished-at="2023-08-17T17:13:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login22 -->
+      </class> <!-- sdet.Login1 -->
+      <class name="sdet.Login2">
+        <test-method status="PASS" signature="Login22()[pri:0, instance:sdet.Login2@6ee52dcd]" name="Login22" duration-ms="23324" started-at="2023-08-17T17:13:31 IST" finished-at="2023-08-17T17:13:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login22 -->
+        <test-method status="PASS" signature="Login11()[pri:0, instance:sdet.Login2@6ee52dcd]" name="Login11" duration-ms="23245" started-at="2023-08-17T17:13:31 IST" finished-at="2023-08-17T17:13:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login11 -->
+      </class> <!-- sdet.Login2 -->
+      <class name="sdet.Login3">
+        <test-method status="PASS" signature="Login11()[pri:0, instance:sdet.Login3@4493d195]" name="Login11" duration-ms="23229" started-at="2023-08-17T17:13:31 IST" finished-at="2023-08-17T17:13:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login11 -->
+        <test-method status="PASS" signature="Login22()[pri:0, instance:sdet.Login3@4493d195]" name="Login22" duration-ms="9720" started-at="2023-08-17T17:13:54 IST" finished-at="2023-08-17T17:14:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login22 -->
+      </class> <!-- sdet.Login3 -->
+      <class name="nopcom.Login">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:nopcom.Login@2353b3e6]" name="setUp" is-config="true" duration-ms="14298" started-at="2023-08-17T17:13:54 IST" finished-at="2023-08-17T17:14:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginData()[pri:0, instance:nopcom.Login@2353b3e6]" name="testLoginData" duration-ms="3707" started-at="2023-08-17T17:14:09 IST" finished-at="2023-08-17T17:14:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:nopcom.Login@2353b3e6]" name="tearDown" is-config="true" duration-ms="838" started-at="2023-08-17T17:14:12 IST" finished-at="2023-08-17T17:14:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- nopcom.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

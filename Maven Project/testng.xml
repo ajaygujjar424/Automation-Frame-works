@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="2" name="Test">
+    <classes>
+      <class name="sdet.Login1"/>
+      <class name="sdet.Login2"/>
+      <class name="sdet.Login3"/>
+      <class name="generic.Generic"/>
+      <class name="generic.Testscript1"/>
+      <class name="nopcom.Login"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
