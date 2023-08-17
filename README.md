@@ -3,7 +3,8 @@
 1. **Introduction to Selenium**:
    - # What is Selenium?
    - Seleium is the Web based automation tool. It is free and open source, it's support for multipal languages like Java, Python Ruby, C# etc.
-   - Selenium components: Selenium WebDriver, Selenium IDE, Selenium Grid. ![image](https://github.com/ajaygujjar424/Automation-Frame-works/assets/127547339/c2de4935-5fd1-41b7-a3b8-2aff40fd390c)
+   - Selenium components: Selenium WebDriver, Selenium IDE, Selenium Grid.
+   -  ![image](https://github.com/ajaygujjar424/Automation-Frame-works/assets/127547339/c2de4935-5fd1-41b7-a3b8-2aff40fd390c)
 
 
 2. **Setting Up Environment**:https://www.selenium.dev/
@@ -13,6 +14,8 @@
 3. # **Selenium WebDriver**:
    - Basics of WebDriver.
    - WebDriver architecture.
+   - ![image](https://github.com/ajaygujjar424/Automation-Frame-works/assets/127547339/f3784e8a-3c1a-4716-93a5-3fc36883fe94)
+
    - WebDriver commands and methods.
    - Locating elements using various locators (ID, name, XPath, CSS selector, etc.).
    - Interacting with web elements (clicking, typing, submitting, etc.).
@@ -36,7 +39,11 @@
    - Switching between windows and tabs.
 
 8.#  **Testing Frameworks**:
-   - Introduction to testing frameworks like TestNG or JUnit.
+   - Introduction to testing frameworks like
+    -Maven.
+    - Data-driven testing.
+    - TestNG
+    - Page object model.
    - Creating test classes and test methods.
    - Annotations (e.g., `@Test`, `@BeforeTest`, `@AfterTest`).
 
@@ -57,11 +64,7 @@
     - Running tests using TestNG suite.
     - Running tests in different browsers.
 
-14. **Introduction to Automation Frameworks **:
-    - tools like Maven.
-    - Data-driven testing.
-    - TestNG
-    - Page object model
+
    
 
 # Technology and Tool Used
