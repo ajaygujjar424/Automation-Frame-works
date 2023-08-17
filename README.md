@@ -1,12 +1,14 @@
 # here's a list of topics to focus on:
 
 1. **Introduction to Selenium**:
-   - What is Selenium?
+   - # What is Selenium?
    - Seleium is the Web based automation tool. It is free and open source, it's support for multipal languages like Java, Python Ruby, C# etc.
-   - Selenium components: Selenium WebDriver, Selenium IDE, Selenium Grid.
+   - Selenium components: Selenium WebDriver, Selenium IDE, Selenium Grid. ![image](https://github.com/ajaygujjar424/Automation-Frame-works/assets/127547339/c2de4935-5fd1-41b7-a3b8-2aff40fd390c)
 
-2. **Setting Up Environment**:
+
+2. **Setting Up Environment**:https://www.selenium.dev/
    - Configuring Selenium WebDriver libraries.
+   - link: https://www.selenium.dev/
 
 3. # **Selenium WebDriver**:
    - Basics of WebDriver.
@@ -80,8 +82,8 @@
 
 •	IDE Tool: Eclipse IDE
 
-# Automation-Frame-works
-steps to create a Maven project in Eclipse in a concise format:
+
+# steps to create a Maven project in Eclipse in a concise format:
 
 1. **Install Eclipse**: Download and install Eclipse IDE.
 
