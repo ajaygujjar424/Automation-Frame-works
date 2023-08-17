@@ -38,7 +38,7 @@
    - Opening new windows and tabs.
    - Switching between windows and tabs.
 
-8.#  **Testing Frameworks**:
+8. # **Testing Frameworks**:
    - Introduction to testing frameworks like
     -Maven.
     - Data-driven testing.
@@ -51,7 +51,7 @@
    - Using external data sources (Excel, CSV) for test data.
    - Parameterization of tests.
 
-10. **Test Reports and Logging**:
+10.#  **Test Reports and Logging**:
     -![Screenshot (191)](https://github.com/ajaygujjar424/Automation-Frame-works/assets/127547339/221358ca-4327-49bf-a871-2385c5d47681)
 
     - Generating test reports using tools like Extent Reports or TestNG reports.
